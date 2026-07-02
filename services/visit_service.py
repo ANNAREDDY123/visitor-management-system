@@ -7,5 +7,4 @@ def valid_phone(phone):
 
 
 def valid_visit_time(check_in, check_out):
-
-    return check_out > check_in
+ return check_out > check_in
