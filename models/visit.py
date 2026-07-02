@@ -35,5 +35,4 @@ class Visit(Base):
 
     status = Column(
         String,
-        default="Scheduled"
-    )
+        default="Scheduled")
