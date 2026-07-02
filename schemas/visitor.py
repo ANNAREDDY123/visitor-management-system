@@ -2,8 +2,6 @@ from pydantic import (
     BaseModel,
     EmailStr
 )
-
-
 class VisitorCreate(BaseModel):
 
     name: str
