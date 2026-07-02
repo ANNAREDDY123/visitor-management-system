@@ -35,5 +35,4 @@ def home():
 
     return {
         "message":
-        "Visitor Management System"
-    }
+        "Visitor Management System"}
