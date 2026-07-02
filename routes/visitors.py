@@ -180,5 +180,4 @@ def delete_visitor(
     db.commit()
 
     return {
-        "message": "Visitor deleted"
-    }
+        "message": "Visitor deleted" }
